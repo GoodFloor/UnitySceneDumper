@@ -1,0 +1,34 @@
+--- !u!4 &1412475129
+Transform:
+  m_GameObject: {fileID: 1412475128}
+  m_Children:
+  - {fileID: 1946821637}
+  - {fileID: 492947069}
+  m_Father: {fileID: 0}
+--- !u!1 &1412475128
+GameObject:
+  m_Component:
+  - component: {fileID: 1412475129}
+  m_Name: Parent
+--- !u!4 &1946821637
+Transform:
+  m_GameObject: {fileID: 1946821636}
+  m_Children:
+  - {fileID: 587334319}
+  m_Father: {fileID: 1412475129}
+--- !u!1 &1946821636
+GameObject:
+  m_Component:
+  - component: {fileID: 1946821637}
+  - component: {fileID: 1946821638}
+  m_Name: Child1
+--- !u!4 &587334319
+Transform:
+  m_GameObject: {fileID: 587334318}
+  m_Children: []
+  m_Father: {fileID: 1946821637}
+--- !u!1 &587334318
+GameObject:
+  m_Component:
+  - component: {fileID: 587334319}
+  m_Name: ChildNested

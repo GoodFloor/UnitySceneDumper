@@ -1,0 +1,17 @@
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\bin\Debug\net9.0\UnitySceneDumper.exe
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\bin\Debug\net9.0\UnitySceneDumper.deps.json
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\bin\Debug\net9.0\UnitySceneDumper.runtimeconfig.json
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\bin\Debug\net9.0\UnitySceneDumper.dll
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\bin\Debug\net9.0\UnitySceneDumper.pdb
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\bin\Debug\net9.0\YamlDotNet.dll
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\UnitySceneDumper.csproj.AssemblyReference.cache
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\UnitySceneDumper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\UnitySceneDumper.AssemblyInfoInputs.cache
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\UnitySceneDumper.AssemblyInfo.cs
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\UnitySceneDumper.csproj.CoreCompileInputs.cache
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\UnitySce.93F00F2C.Up2Date
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\UnitySceneDumper.dll
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\refint\UnitySceneDumper.dll
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\UnitySceneDumper.pdb
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\UnitySceneDumper.genruntimeconfig.cache
+D:\Documents\Programowanie\JetBrains\Rider\UnitySceneDumper\UnitySceneDumper\obj\Debug\net9.0\ref\UnitySceneDumper.dll
