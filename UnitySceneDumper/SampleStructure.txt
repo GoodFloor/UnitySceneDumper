@@ -32,3 +32,10 @@ GameObject:
   m_Component:
   - component: {fileID: 587334319}
   m_Name: ChildNested
+--- !u!1660057539 &9223372036854775807
+SceneRoots:
+  m_ObjectHideFlags: 0
+  m_Roots:
+  - {fileID: 350617206}
+  - {fileID: 1429926219}
+  - {fileID: 1412475129}

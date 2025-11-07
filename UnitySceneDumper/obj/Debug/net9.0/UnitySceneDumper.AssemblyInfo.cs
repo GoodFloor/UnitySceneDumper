@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnitySceneDumper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e62715ec4cdb979378bed16f16661114cf6811")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnitySceneDumper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnitySceneDumper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
